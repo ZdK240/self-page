@@ -63,6 +63,7 @@ Press on that for a drop-down menu, select 'Star Processing', then 'Starnet Star
 <img width="1365" height="766" alt="Screenshot 2026-07-29 124512" src="https://github.com/user-attachments/assets/c54ca5b8-9e2d-4905-a5ee-a2e2b460830a" />
 
 Then we will get an image without stars as seen below:
+
 <img width="522" height="354" alt="Screenshot 2026-07-29 130338" src="https://github.com/user-attachments/assets/4ce1844e-e5e8-4bbe-9a44-bbb486d6873c" />
 
 With this result (possibly) being on your screen, you can rest assured that you know how to do this now.
