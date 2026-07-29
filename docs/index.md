@@ -27,7 +27,7 @@ _A place to document my journey, learning, and projects._
 
 Learn more about who I am, my background, education, and skills.
 
-[:octicons-arrow-right-24: Go to About Me](about/index.md)
+[--> Go to About Me](about/index.md)
 
 </div>
 
@@ -37,17 +37,12 @@ Learn more about who I am, my background, education, and skills.
 
 Browse my notes, guides, and learning materials organized by topic.
 
-[:octicons-arrow-right-24: View Documentation](documentation/index.md)
+[--> View Documentation](documentation/index.md)
 
 </div>
 
 <div class="card" markdown>
 
-### 🏗️ Projects
-
-Explore my project portfolio with detailed documentation for each one.
-
-[:octicons-arrow-right-24: See Projects](projects/index.md)
 
 </div>
 
