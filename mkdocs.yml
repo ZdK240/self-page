@@ -8,12 +8,12 @@
 # ============================================================
 
 site_name: My Documentation Site          # ← Change to your name / project
-site_url: https://yourusername.github.io/yourrepo/  # ← Change: https://<username>.github.io/<repo>/
+site_url: https://zdk240.github.io/self-page/  # ← Change: https://<username>.github.io/<repo>/
 site_description: A personal documentation site for showcasing work, learning, and projects.
-site_author: Your Name                    # ← Change to your name
+site_author: Zdrimet Kuenga                  # ← Change to your name
 
-repo_url: https://github.com/yourusername/yourrepo  # ← Change to your GitHub repo URL
-repo_name: yourusername/yourrepo                    # ← Change to username/reponame
+repo_url: https://github.com/zdk240/self-page  # ← Change to your GitHub repo URL
+repo_name: zdk240/self-page                  # ← Change to username/reponame
 
 # ── Theme ────────────────────────────────────────────────────
 theme:
@@ -148,14 +148,8 @@ nav:
 
   - Documentation:
       - Overview: documentation/index.md
-      - "Deploy to GitHub Pages": documentation/github-deployment.md
-      - "Expectation and Roles" : documentation/expectation.md
-      - Getting Started Guide: documentation/getting-started.md
-      - Basic Simulation TinkerCad : documentation/basic_simulation.md
-      - Softwares : documentation/installation.md 
-      - Blinking LED : documentation/led_blink.md
-      - "Blank Template": documentation/template.md
-      - "3D Designing": documentation/3d_design.md
+      - "Image Stacking with Siril": documentation/stacking.md
+      - "Stellarium Usage" : documentation/stellarium.md
 
   - Projects:
       - Overview: projects/index.md
